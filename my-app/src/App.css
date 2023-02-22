@@ -1,0 +1,79 @@
+html {
+  background-color: #e0e0e0;
+
+}
+
+.app-name {
+  font-size: 2.3rem;
+}
+
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 1440px;
+  height: 90vh;
+  text-align: center;
+  margin: 35px auto;
+  border-radius: 50px;
+  background: linear-gradient(145deg, #cacaca, #f0f0f0);
+  box-shadow: 20px 20px 60px #bebebe,
+    -20px -20px 60px #ffffff;
+}
+
+.city-search {
+  width: 200px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  outline: none;
+  border-radius: 20px;
+  font-size: 16px;
+  background-color: rgb(243, 243, 243);
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
+.city-search:focus {
+  width: 60%;
+}
+
+.city-name {
+  font-size: 1.25em;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+.date {
+  font-size: 1.25em;
+  font-weight: 500;
+}
+
+.icon-temp {
+  font-size: 4rem;
+  font-weight: 700;
+  color: #1e2432;
+  text-align: center;
+}
+
+.deg {
+  font-size: 2rem;
+}
+
+.des-wind {
+  font-weight: 500;
+}
+
+.error-message {
+  display: block;
+  text-align: center;
+  color: rgb(204, 13, 13);
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: auto;
+}
