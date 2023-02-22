@@ -1,3 +1,10 @@
+
+
+
+
+
+
+![Screenshot_20230223_121023](https://user-images.githubusercontent.com/87846923/220727579-5a548a5c-4af1-4b7d-bc03-69ea1d363186.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,5 +77,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 #for weather api link : https://home.openweathermap.org/api_keys
+
 #github : https://www.bing.com/ck/a?!&&p=6994c8f2c64ddd9cJmltdHM9MTY3NzAyNDAwMCZpZ3VpZD0zMjY3MDcwZi0wMjNiLTZiNmYtMDkzZC0xNTBkMDNjYzZhMDcmaW5zaWQ9NTI2Mg&ptn=3&hsh=3&fclid=3267070f-023b-6b6f-093d-150d03cc6a07&psq=chulindra&u=a1aHR0cHM6Ly9naXRodWIuY29tL0lvdGNodWxpbmRyYVJhaS8&ntb=1
 
